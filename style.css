@@ -1,0 +1,37 @@
+h2 {
+    font-size: 30px;
+    color: darkturquoise;
+    text-align: center;
+}
+
+h4 {
+  font-variant:small-caps;
+  text-decoration: underline;
+  font-size: 25px; 
+  margin-left: 10px;
+  margin-top: 30px;
+
+}
+
+.imgs {
+    height: 300px;
+    width: 225px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+    border-color: darkgoldenrod;
+    border-style: inset;
+    border-width: thick;
+}
+
+p {
+    text-align: center;
+    margin-right: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+body {
+    background-color: chocolate;
+}
